@@ -1,0 +1,33 @@
+_repo: Lures-of-Life_43303
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43303-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Lucas, Joseph
+    gutenberg_agent_id: '42122'
+    url: http://www.gutenberg.org/2009/agents/42122
+description: This thought-provoking series of essays addresses various ""lures,""
+  or enticing traps that aren't what they appear to be and can provoke confusion in
+  one's thinking and behavior. Author Joseph Lucas doesn't shy away from big ideas
+  or controversy -- the ""lures"" he tackles range from democracy to Jesus Christ.
+gutenberg_issued: '2013-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43303'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PR'
+tableOfContents: The lure of life's afterglow -- The lure of happiness -- The lure
+  of self-denial -- The lure of magic words -- The lure of an old Tuscan garden --
+  The lure of the Montelupo plate -- The lure of pluck -- The lure of old furniture
+  -- The lure of personality -- The lure of nice people -- The lure of the New Democracy
+  -- Jesus Christ the lure of the ages -- The lure of the living word -- The lure
+  of the Eucharist.
+title: Lures of Life
+url: http://www.gutenberg.org/ebooks/43303
